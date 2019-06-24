@@ -24,7 +24,7 @@
     [FIRApp configure];
     [ChatManager configure];
     
-    NSString *email = @"john@mycompany.com";
+    NSString *email = @"andspo@ttt.it";
     NSString *password = @"123456";
     [ChatAuth authWithEmail:email password:password completion:^(ChatUser *user, NSError *error) {
         if (error) {
