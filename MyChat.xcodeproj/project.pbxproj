@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		A049973D8821CE07139873D2 /* libPods-MyChat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EC9982D4377E1AEE64C32A0B /* libPods-MyChat.a */; };
-		B2B4FBC722B415AB00C1D255 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B2B4FBC622B415AB00C1D255 /* GoogleService-Info.plist */; };
 		B2CC199C2031E595000E08C6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B2CC199B2031E595000E08C6 /* AppDelegate.m */; };
 		B2CC19A22031E595000E08C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2CC19A02031E595000E08C6 /* Main.storyboard */; };
 		B2CC19A42031E595000E08C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2CC19A32031E595000E08C6 /* Assets.xcassets */; };
@@ -36,7 +35,6 @@
 /* Begin PBXFileReference section */
 		0A16A31975471EC544F4A948 /* Pods-MyChat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyChat.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyChat/Pods-MyChat.debug.xcconfig"; sourceTree = "<group>"; };
 		1412A66D91893D0060A9FEFA /* Pods-MyChat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyChat.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyChat/Pods-MyChat.release.xcconfig"; sourceTree = "<group>"; };
-		B2B4FBC622B415AB00C1D255 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		B2CC19972031E595000E08C6 /* MyChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2CC199A2031E595000E08C6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B2CC199B2031E595000E08C6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -116,7 +114,6 @@
 		B2CC19992031E595000E08C6 /* MyChat */ = {
 			isa = PBXGroup;
 			children = (
-				B2B4FBC622B415AB00C1D255 /* GoogleService-Info.plist */,
 				B2CC199A2031E595000E08C6 /* AppDelegate.h */,
 				B2CC199B2031E595000E08C6 /* AppDelegate.m */,
 				B2CC19A02031E595000E08C6 /* Main.storyboard */,
@@ -240,7 +237,6 @@
 				B2CC19A72031E595000E08C6 /* LaunchScreen.storyboard in Resources */,
 				B2CC19A42031E595000E08C6 /* Assets.xcassets in Resources */,
 				B2CC19A22031E595000E08C6 /* Main.storyboard in Resources */,
-				B2B4FBC722B415AB00C1D255 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
